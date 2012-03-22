@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, NativeTestActivity!</string>
+    <string name="app_name">PandaBoard ES GPIO Test</string>
+    <string name="button_expression">Push button to enable/disable GPIO</string>
+    <string name="initialPin1">32</string>
+    <string name="initialPin2">33</string>
+
+</resources>
